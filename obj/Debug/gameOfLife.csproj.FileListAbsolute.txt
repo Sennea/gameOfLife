@@ -1,0 +1,10 @@
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\bin\Debug\gameOfLife.exe.config
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\bin\Debug\gameOfLife.exe
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\bin\Debug\gameOfLife.pdb
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.csprojAssemblyReference.cache
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.Form1.resources
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.Properties.Resources.resources
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.csproj.GenerateResource.cache
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.exe
+C:\Users\Kasia\source\repos\gameOfLife\gameOfLife\obj\Debug\gameOfLife.pdb
